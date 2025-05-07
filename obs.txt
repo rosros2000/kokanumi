@@ -1,0 +1,36 @@
+Kokanu
+Obsolete, deprecated and not-approved terms
+v. 20250507
+
+an => pi
+anta => tajali
+cisilin => okutu
+ena => ci
+iputu => kenca
+jamu => antomi
+junja => han
+kapaja => ...; (market)
+ke => ki
+ken => macun
+keti => kuwekan
+kima => cenpo
+lana => kin
+lijo => loku
+mata => niju
+minuli => matin
+niju => lan
+pote => melon
+putuci => melon
+sama => saman
+sanpanti => lije
+sena => kike
+si => se
+su => so
+suti => cimi
+tenkin => sema
+tihuwan => ...; (replace, replacement)
+timi => cimi
+tisilin => okutu
+tutu => hinpan
+we => wi (no)
+win => wen
