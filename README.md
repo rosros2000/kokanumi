@@ -9,4 +9,4 @@ https://docs.google.com/presentation/d/1a3wRcsZs45O4E_SGpnR8xe-y59DzYZ9OICffmSif
 - ReplaceStrings.bas: LibreOffice macro to replace ligatures in Kokanu1.otf font with
 Unicode characters (of the same font)
 
-NOTE: 
+- likanu.txt: input method for likanu with iBus in Linux
