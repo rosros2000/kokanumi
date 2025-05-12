@@ -13,8 +13,9 @@ WORK IN PROGRESS
   Font with kokanu glyphs based on VSG's work.
 
   NOTE: Most ligatures are used by entering "X." in which
-  X is the name of the glyph. Ligatures retain the characters
-  they are composed of, see ReplaceStrings.bas below to get
+  X is the name of the glyph.
+
+  Ligatures retain the characters they are composed of, see ReplaceStrings.bas below to get
   Unicode characters.
   
   E.g. "tuntan."
@@ -35,5 +36,8 @@ WORK IN PROGRESS
   must be installed).
   
 
-- likanu.txt: : V. 20250512
-  Input method for iBus in Linux
+- likanu.txt:
+
+  V. 20250512
+
+  Input method for iBus in Linux.
