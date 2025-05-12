@@ -19,13 +19,20 @@ WORK IN PROGRESS
   
   E.g. "tuntan."
 
-- Kokanu1.txt: V. 20250512
+- Kokanu1.txt:
+
+  V. 20250512
+
   List of Unicode codepoints in Kokanu1.otf
   
-- ReplaceStrings.bas: V. 20250512
+- ReplaceStrings.bas:
+
+  V. 20250512
+
   LibreOffice macro to replace ligatures in Kokanu1.otf font with
   Unicode characters (of the same font). This can be used to replace
-  text in another font (Kokanu1.otf must be installed).
+  text in another font with glyphs from Kokanu1.otf (Kokanu1.otf 
+  must be installed).
   
 
 - likanu.txt: : V. 20250512
