@@ -4,7 +4,10 @@ WORK IN PROGRESS
   List of obsolete, deprecated or not-approved words in kokanu
 
 - Kokanu1.otf: V. 20250512
-  Font with kokanu glyphs based on VSG's work
+  Font with kokanu glyphs based on VSG's work.
+  NOTE: Most ligatures are used by entering "X." in which
+  X is the name of the glyph.
+  E.g. "akala."
 
 - Kokanu1.txt: V. 20250512
   List of Unicode codepoints in Kokanu1.otf
@@ -13,6 +16,7 @@ WORK IN PROGRESS
   LibreOffice macro to replace ligatures in Kokanu1.otf font with
   Unicode characters (of the same font). This can be used to replace
   text in another font (Kokanu1.otf must be installed).
+  
 
 - likanu.txt: : V. 20250512
   Input method for iBus in Linux
