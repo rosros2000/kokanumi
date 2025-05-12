@@ -1,6 +1,7 @@
 WORK IN PROGRESS
 
-- obs.txt: V. 20250512
+- obs.txt:
+  V. 20250512
   List of obsolete, deprecated or not-approved words in kokanu
 
 - Kokanu1.otf: V. 20250512
