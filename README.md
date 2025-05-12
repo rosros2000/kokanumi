@@ -1,10 +1,18 @@
 WORK IN PROGRESS
 
-- obs.txt: list of obsolete, deprecated or not-approved words in kokanu
+- obs.txt: V. 20250512
+  List of obsolete, deprecated or not-approved words in kokanu
 
-- Kokanu1.otf: font with kokanu glyphs based on VSG's work
+- Kokanu1.otf: V. 20250512
+  Font with kokanu glyphs based on VSG's work
 
-- ReplaceStrings.bas: LibreOffice macro to replace ligatures in Kokanu1.otf font with
-Unicode characters (of the same font)
+- Kokanu1.txt: V. 20250512
+  List of Unicode codepoints in Kokanu1.otf
+  
+- ReplaceStrings.bas: V. 20250512
+  LibreOffice macro to replace ligatures in Kokanu1.otf font with
+  Unicode characters (of the same font). This can be used to replace
+  text in another font (Kokanu1.otf must be installed).
 
-- likanu.txt: input method for likanu with iBus in Linux
+- likanu.txt: : V. 20250512
+  Input method for iBus in Linux
