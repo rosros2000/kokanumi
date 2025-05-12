@@ -7,7 +7,8 @@ WORK IN PROGRESS
   Font with kokanu glyphs based on VSG's work.
   NOTE: Most ligatures are used by entering "X." in which
   X is the name of the glyph.
-  E.g. "akala."
+  
+  E.g. "tuntan."
 
 - Kokanu1.txt: V. 20250512
   List of Unicode codepoints in Kokanu1.otf
