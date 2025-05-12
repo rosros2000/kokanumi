@@ -1,13 +1,21 @@
 WORK IN PROGRESS
 
 - obs.txt:
+  
   V. 20250512
+
   List of obsolete, deprecated or not-approved words in kokanu
 
-- Kokanu1.otf: V. 20250512
+- Kokanu1.otf:
+
+  V. 20250512
+
   Font with kokanu glyphs based on VSG's work.
+
   NOTE: Most ligatures are used by entering "X." in which
-  X is the name of the glyph.
+  X is the name of the glyph. Ligatures retain the characters
+  they are composed of, see ReplaceStrings.bas below to get
+  Unicode characters.
   
   E.g. "tuntan."
 
