@@ -8,7 +8,7 @@ WORK IN PROGRESS
 
 - Kokanu1.otf:
 
-  V. 20250512
+  V. 20250513
 
   Font with kokanu glyphs based on VSG's work.
 
