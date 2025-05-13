@@ -1,11 +1,11 @@
-Kokanu
+﻿Kokanu
 Obsolete, deprecated and not-approved terms
-v. 20250507
 
 an => pi
 anta => tajali
 cisilin => okutu
 ena => ci
+huwanho => huwonho
 iputu => kenca
 jamu => antomi
 junja => han
@@ -13,10 +13,12 @@ kapaja => ...; (market)
 ke => ki
 ken => macun
 keti => kuwekan
+kijata => kijeta
 kima => cenpo
 lana => kin
 lijo => loku
 mata => niju
+menwa => menwo
 minuli => matin
 niju => lan
 pote => melon
