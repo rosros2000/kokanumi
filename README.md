@@ -23,7 +23,7 @@ Proofs of Concepts
 
 - Kokanu1.txt:
 
-  V. 20250512
+  V. 20250514
 
   List of Unicode codepoints in Kokanu1.otf
   
