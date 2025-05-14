@@ -10,12 +10,11 @@ Proofs of Concepts
 
 - Kokanu1.otf:
 
-  V. 20250513
+  V. 20250514
 
   Font with kokanu glyphs based on VSG's work.
 
-  NOTE: Most ligatures are used by entering "X." in which
-  X is the name of the glyph.
+  NOTE: Most ligatures are produced by entering the Kokanu word + "."
 
   Ligatures retain the characters they are composed of, see ReplaceStrings.bas below to get
   Unicode characters.
