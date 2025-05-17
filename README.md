@@ -10,7 +10,7 @@ Proofs of Concepts
 
 - Kokanu1.otf:
 
-  V. 20250514
+  V. 20250517
 
   Font with kokanu glyphs based on VSG's work.
 
@@ -23,7 +23,7 @@ Proofs of Concepts
 
 - Kokanu1.txt:
 
-  V. 20250514
+  V. 20250517
 
   List of Unicode codepoints in Kokanu1.otf
   
