@@ -24,4 +24,4 @@ Proofs of Concepts
 
   V. 20250512
 
- iBUS input-method table for likanu abugida
+  iBUS input-method table for likanu abugida
