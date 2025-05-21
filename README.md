@@ -10,9 +10,11 @@ Proofs of Concepts
 
 - Kokanu1.otf:
 
-  V. 20250517
+  V. 20250521
 
   Font with kokanu glyphs based on VSG's work. 
+
+  NOTE: ligatures removed since they do not work well with iBus imput method. 
 
 - kokanu1.txt:
 
