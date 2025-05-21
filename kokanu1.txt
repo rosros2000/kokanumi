@@ -1,0 +1,212 @@
+### File header must not be modified
+### This file must be encoded into UTF-8.
+### This table under LGPL
+### comments start with ### not single #
+### Derive from the format of SCIM Table, so you can modify the table from
+### scim-tables' table
+SCIM_Generic_Table_Phrase_Library_TEXT
+VERSION_1_0
+
+### Begin Table definition.
+BEGIN_DEFINITION
+
+### License
+LICENSE = LGPL
+
+### An unique id to distinguish this table among others.
+### Use uuidgen to generate this kind of id.
+UUID = f285384a-09ca-4f09-a68b-4435950ed994
+
+### A unique number indicates the version of this file.
+### For example the last modified date of this file.
+### This number must be less than 2^32.
+### Just make your table version-able
+SERIAL_NUMBER = 20250620
+
+### ICON can be any format as long as your pygtk can recognized
+### the most widely ones are "png" and "svg", letter one is recommended
+ICON = kokanu.svg
+
+### The default name of this table, this is needed
+NAME = KokanuLogography
+
+### Description
+DESCRIPTION = Kokanu Logography
+
+### Supported languages of this table
+### sigle "zh_CN" just be recognized as zh_CN,
+### but "zh_CN, zh_HK" or more zh_XX will be recognized as zh;
+### and "en_US, zh_CN" will be just ignored.
+LANGUAGES = en_US
+
+### The author of this table
+AUTHOR = rr
+
+### Prompt string to be displayed in the status area, CN will be replaced by
+### the gettext tools in runtime as 中.
+STATUS_PROMPT = K
+
+### Valid input chars.
+VALID_INPUT_CHARS = abcdefghijklmnopqrstuvwxyzQWERTYUIO.,
+
+### Layout
+LAYOUT = us
+
+### The max number of input keys for every phrase or character.
+MAX_KEY_LENGTH = 12
+
+### Use auto_commit mode as default
+AUTO_COMMIT = FALSE
+
+### Use full width punctuation by default
+DEF_FULL_WIDTH_PUNCT = FALSE
+### Not use full width letter by default
+DEF_FULL_WIDTH_LETTER = FALSE
+
+### Whether user are allow to define phrase, default is true
+### You have to define the word construction rules below.
+### For input methods which do not input phrases, set this to False
+USER_CAN_DEFINE_PHRASE = FALSE
+
+### Whether support PinYin Mode, default is true.
+### this feature is just for Chinese, set it to False if your IM is not
+### Chinese.
+PINYIN_MODE = FALSE
+
+### If true then the phrases' frequencies will be adjusted dynamically
+### according your using frequency.
+DYNAMIC_ADJUST = TRUE
+
+### Some characters whose frequencies should be fix all the time, e.g.
+### some punctuations
+### NO_CHECK_CHARS =
+
+### Rules for constructing user defined phrase
+### "ce" stands for "ci equal", a Chinese English :), means "phrase length
+### equal to", thus ce2 -> phrase length equal to 2; and "ca" means "phrase
+### length equal or above", so ca4 -> phrase length equal or above 4.
+### p21 -> the 1st key of 2nd character in the phrase, and so on.
+### Each rule separate via ";".
+### Example below is a complete rule-set,
+### becuase [2,2] ∩ [3,3] ∩ [4,+∞] = [2,+∞], which is the range of length
+### of phrase. This have to be satisfied if you need ibus-table to build up
+### your own inputed phrase via your daily using.
+### RULES = ce2:p11+p12+p21+p22;ce3:p11+p21+p22+p31;ca4:p11+p21+p31+p41
+
+END_DEFINITION
+
+### Begin Table data.
+### Format of every line whose formated in "input_keys\tphrase\tfreq\n" is an
+### entry.
+### From left to right, the 1st column are the input key combination that you
+### entered via keyboard; the 2nd column are presented character or phrase of
+### the key combination you want; the 3rd column are frequency of the character
+### or phrase.
+BEGIN_TABLE
+akala	􀄀	1
+akasa	􀄁	1
+alijun	􀄂	1
+alu	􀄃	1
+amo	􀄄	1
+anan	􀄅	1
+ani	􀄆	1
+ankolo	􀄇	1
+anpipi	􀄈	1
+antomi	􀄉	1
+anwije	􀄊	1
+apaki	􀄋	1
+asa	􀄌	1
+asete	􀄍	1
+cakuwa	􀄎	1
+canu	􀄏	1
+canwa	􀄐	1
+ci	􀄖	1
+conca	􀄛	1
+hakiki	􀄧	1
+han	􀄪	1
+he	􀄭	1
+hela	􀄮	1
+ikama	􀄻	1
+in	􀄿	1
+inkatan	􀅁	1
+jan	􀅉	1
+janlu	􀅊	1
+jati	􀅌	1
+je	􀅍	1
+ju	􀅑	1
+ka	􀅓	1
+kan	􀅘	1	1
+ki	􀅣	1
+kin	􀅪	1
+konco	􀅯	1
+kota	􀅸	1
+kuwosi	􀆃	1
+laki	􀆇	1
+lan	􀆉	1
+le	􀆍	1
+lekin	􀆎	1
+lika	􀆔	1
+lo	􀆜	1
+loso	􀆞	1
+makan	􀆥	1
+matuwa	􀆬	1
+meja	􀆭	1
+melon	􀆮	1
+men	􀆯	1
+menu	􀆰	1
+menwo	􀆱	1
+mese	􀆳	1
+mi	􀆴	1
+mita	􀆷	1
+mulu	􀆼	1
+nan	􀇇	1
+nase	􀇋	1
+ne	􀇌	1
+nenka	􀇏	1
+nin	􀇕	1
+niwa	􀇖	1
+no	􀇗	1
+o	􀇚	1
+ocota	􀇛	1
+oke	􀇜	1
+pani	􀇪	1
+peko	􀇵	1
+pi	􀇽	1
+pijen	􀈀	1
+pilu	􀈂	1
+pon	􀈊	1
+pucun	􀈍	1
+puka	􀈎	1
+pumi	􀈑	1
+saman	􀈖	1
+se	􀈡	1
+sekano	􀈢	1
+sema	􀈣	1
+sin	􀈩	1
+sito	􀈮	1
+sone	􀈱	1
+sun	􀈶	1
+ta	􀈺	1	1
+talika	􀈿	1
+tason	􀉆	1
+tasuwi	􀉇	1
+te	􀉋	1
+ten	􀉍	1
+tene	􀉎	1
+tomiwa	􀉛	1
+tope	􀉝	1
+tu	􀉞	1
+tuko	􀉟	1
+tula	􀉠	1
+tun	􀉡	1
+tuntan	􀉣	1
+ukama	􀉦	1
+un	􀉬	1
+usen	􀉮	1
+uta	􀉯	1
+wa	􀉰	1
+wen	􀉶	1
+wi	􀉷	1
+usen1	􀌀	1
+nase1	􀌁	1
+END_TABLE
