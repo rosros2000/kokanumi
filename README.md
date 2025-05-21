@@ -14,7 +14,7 @@ Proofs of Concepts
 
   Font with kokanu glyphs based on VSG's work. 
 
-- Kokanu1.txt:
+- kokanu1.txt:
 
   V. 20250521
 
