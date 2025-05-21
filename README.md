@@ -14,7 +14,7 @@ Proofs of Concepts
 
   Font with kokanu glyphs based on VSG's work. 
 
-  NOTE: ligatures removed since they do not work well with iBus imput method. 
+  NOTE: ligatures removed since they do not work well with iBus input method. 
 
 - kokanu1.txt:
 
