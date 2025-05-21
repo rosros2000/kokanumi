@@ -18,10 +18,10 @@ Proofs of Concepts
 
   V. 20250521
 
-  Input method for iBus in Linux.
+  iBUS input-method table for kokanu glyphs (Unicode U+100100 - U+100301)
   
 - likanu.txt:
 
   V. 20250512
 
-  Input method for iBus in Linux.
+ iBUS input-method table for likanu abugida
