@@ -12,31 +12,14 @@ Proofs of Concepts
 
   V. 20250517
 
-  Font with kokanu glyphs based on VSG's work.
-
-  NOTE: Most ligatures are produced by entering the Kokanu word + "."
-
-  Ligatures retain the characters they are composed of, see ReplaceStrings.bas below to get
-  Unicode characters.
-  
-  E.g. "tuntan."
+  Font with kokanu glyphs based on VSG's work. 
 
 - Kokanu1.txt:
 
-  V. 20250517
+  V. 20250521
 
-  List of Unicode codepoints in Kokanu1.otf
+  Input method for iBus in Linux.
   
-- ReplaceStrings.bas:
-
-  V. 20250512
-
-  LibreOffice macro to replace ligatures in Kokanu1.otf font with
-  Unicode characters (of the same font). This can be used to replace
-  text in another font with glyphs from Kokanu1.otf (Kokanu1.otf 
-  must be installed).
-  
-
 - likanu.txt:
 
   V. 20250512
