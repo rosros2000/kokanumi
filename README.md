@@ -10,15 +10,13 @@ Proofs of Concepts
 
 - Kokanu1.otf:
 
-  V. 20250521
+  V. 20250522
 
   Font with kokanu glyphs based on VSG's work. 
 
-  NOTE: ligatures removed since they do not work well with iBus input method. 
-
 - kokanu1.txt:
 
-  V. 20250521
+  V. 20250522
 
   iBUS input-method table for kokanu glyphs (Unicode U+100100 - U+100301)
   
