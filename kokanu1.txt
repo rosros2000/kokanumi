@@ -53,7 +53,7 @@ VALID_INPUT_CHARS = abcdefghijklmnopqrstuvwxyzQWERTYUIO.,
 LAYOUT = us
 
 ### The max number of input keys for every phrase or character.
-MAX_KEY_LENGTH = 12
+MAX_KEY_LENGTH = 10
 
 ### Use auto_commit mode as default
 AUTO_COMMIT = FALSE
@@ -120,7 +120,14 @@ asete	􀄍	1
 cakuwa	􀄎	1
 canu	􀄏	1
 canwa	􀄐	1
+cawapu	􀄑	1
+ceke	􀄒	1
+cele	􀄓	1
+cenci	􀄔	1
+cenpo	􀄕	1
 ci	􀄖	1
+cimi	􀄗	1
+cina	􀄘	1
 conca	􀄛	1
 hakiki	􀄧	1
 han	􀄪	1
@@ -135,16 +142,16 @@ jati	􀅌	1
 je	􀅍	1
 ju	􀅑	1
 ka	􀅓	1
-kan	􀅘	1	1
+kan	􀅘	1
 ki	􀅣	1
 kin	􀅪	1
 konco	􀅯	1
 kota	􀅸	1
-kuwosi	􀆃	1
+kuwos	􀆃	1
 laki	􀆇	1
 lan	􀆉	1
 le	􀆍	1
-lekin	􀆎	1
+leki	􀆎	1
 lika	􀆔	1
 lo	􀆜	1
 loso	􀆞	1
@@ -162,7 +169,7 @@ mulu	􀆼	1
 nan	􀇇	1
 nase	􀇋	1
 ne	􀇌	1
-nenka	􀇏	1
+nenk	􀇏	1
 nin	􀇕	1
 niwa	􀇖	1
 no	􀇗	1
@@ -172,8 +179,8 @@ oke	􀇜	1
 pani	􀇪	1
 peko	􀇵	1
 pi	􀇽	1
-pijen	􀈀	1
-pilu	􀈂	1
+pije	􀈀	1
+pil	􀈂	1
 pon	􀈊	1
 pucun	􀈍	1
 puka	􀈎	1
@@ -181,12 +188,12 @@ pumi	􀈑	1
 saman	􀈖	1
 se	􀈡	1
 sekano	􀈢	1
-sema	􀈣	1
+sem	􀈣	1
 sin	􀈩	1
 sito	􀈮	1
 sone	􀈱	1
 sun	􀈶	1
-ta	􀈺	1	1
+ta	􀈺	1
 talika	􀈿	1
 tason	􀉆	1
 tasuwi	􀉇	1
@@ -209,4 +216,6 @@ wen	􀉶	1
 wi	􀉷	1
 usen1	􀌀	1
 nase1	􀌁	1
+oq	◖	1
+cq	◗	1
 END_TABLE
