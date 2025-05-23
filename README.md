@@ -24,6 +24,10 @@ Proofs of Concepts
 
   V. 20250523
 
-  iBUS input-method table for likanu: likanu abugida, all current kokanu words
-  and the following punctuation marks: oq	｢, cq	｣, <q	‹, >q	›, ?q	≈, !q	ʭ.
+  iBUS input-method table for likanu:
+
+  likanu abugida, all current kokanu words
+  and the following punctuation marks:
+
+  oq	｢, cq	｣, <q	‹, >q	›, ?q	≈, !q	ʭ.
 
