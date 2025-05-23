@@ -22,6 +22,8 @@ Proofs of Concepts
   
 - likanu.txt:
 
-  V. 20250512
+  V. 20250523
 
-  iBUS input-method table for likanu abugida
+  iBUS input-method table for likanu. It includes the abugida, all current kokanu words
+  and the following punctuation marks:
+
