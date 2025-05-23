@@ -16,7 +16,7 @@ Proofs of Concepts
 
 - kokanu1.txt:
 
-  V. 20250522
+  V. 20250523
 
   iBUS input-method table for kokanu glyphs (Unicode U+100100 - U+100301)
   
