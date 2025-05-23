@@ -37,7 +37,7 @@ DESCRIPTION = Kokanu Logography
 ### sigle "zh_CN" just be recognized as zh_CN,
 ### but "zh_CN, zh_HK" or more zh_XX will be recognized as zh;
 ### and "en_US, zh_CN" will be just ignored.
-LANGUAGES = en_US
+LANGUAGES =
 
 ### The author of this table
 AUTHOR = rr
@@ -128,7 +128,15 @@ cenpo	􀄕	1
 ci	􀄖	1
 cimi	􀄗	1
 cina	􀄘	1
-conca	􀄛	1
+cohi	􀄙	1
+con	􀄚	1
+conto	􀄛	1
+conca	􀄜	1
+cuma	􀄝	1
+cune	􀄞	1
+cunpu	􀄟	1
+cuwi	􀄠	1
+eme	􀄡	1
 hakiki	􀄧	1
 han	􀄪	1
 he	􀄭	1
@@ -181,6 +189,7 @@ peko	􀇵	1
 pi	􀇽	1
 pije	􀈀	1
 pil	􀈂	1
+pintan	􀈄	1
 pon	􀈊	1
 pucun	􀈍	1
 puka	􀈎	1
@@ -218,4 +227,6 @@ usen1	􀌀	1
 nase1	􀌁	1
 oq	◖	1
 cq	◗	1
+?q	≈	1
+!q	ʭ	1
 END_TABLE
