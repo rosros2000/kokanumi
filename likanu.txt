@@ -25,10 +25,10 @@ SERIAL_NUMBER = 20250504
 
 ### ICON can be any format as long as your pygtk can recognized
 ### the most widely ones are "png" and "svg", letter one is recommended
-ICON = likanu.png
+ICON = likanu.svg
 
 ### The symbol to be displayed in IM switchers
-SYMBOL = likanu.png
+SYMBOL = L
 
 ### The default name of this table, this is needed
 NAME = Likanu
@@ -248,10 +248,11 @@ co	ɛʃ	1
 con	ɛ̄ʃ	1
 oq	｢	1
 cq	｣	1
-<q	‹	1
->q	›	1
+os	‹	1
+cs	›	1
 ?q	≈	1
 !q	ʭ	1
+kokanu	xʃxƨſ	4
 akala	oxʋ	1
 akasa	oxɤ	1
 alijun	oʋıɂ̄ſ	1
