@@ -10,7 +10,7 @@ Proofs of Concepts
 
 - Kokanu1.otf:
 
-  V. 20250523
+  V. 20250524
 
   Font with kokanu glyphs based on VSG's work. 
 
