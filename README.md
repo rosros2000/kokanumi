@@ -22,7 +22,7 @@ Proofs of Concepts
   
 - likanu.txt:
 
-  V. 20250524
+  V. 20250525
 
   iBUS input-method table for likanu:
 
