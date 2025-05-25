@@ -29,5 +29,5 @@ Proofs of Concepts
   likanu abugida, all current kokanu words
   and the following punctuation marks:
 
-  oq	｢, cq	｣, <q	‹, >q	›, ?q	≈, !q	ʭ.
+  oq	｢, cq	｣, os	‹, cs	›, ?q	≈, !q	ʭ.
 
