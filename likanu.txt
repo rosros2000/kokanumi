@@ -250,8 +250,8 @@ oq	｢	1
 cq	｣	1
 os	‹	1
 cs	›	1
-?q	≈	1
-!q	ʭ	1
+qq	≈	1
+xq	ʭ	1
 kokanu	xʃxƨſ	4
 akala	oxʋ	1
 akasa	oxɤ	1
