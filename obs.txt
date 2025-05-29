@@ -1,5 +1,5 @@
 ﻿Kokanu
-Obsolete, deprecated and not-approved terms
+Obsolete and deprecated terms
 
 a => la
 aja => haja
@@ -19,7 +19,7 @@ iputu => kenca
 jamu => antomi
 jasa => pajan
 junja => han
-kapaja => jan cele
+kapaja => ...; (market)
 kaso => haso
 kata => mita
 ke => ki
