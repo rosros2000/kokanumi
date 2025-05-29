@@ -4,9 +4,9 @@ Proofs of Concepts
 
 - obs.txt:
   
-  V. 20250528
+  V. 20250529
 
-  List of obsolete, deprecated or not-approved words in kokanu
+  List of obsolete and deprecated terms in kokanu
 
 - Kokanu1.otf:
 
