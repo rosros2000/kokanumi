@@ -33,3 +33,11 @@ Proofs of Concepts
 
   oq	◖, cq	◗, qq	≈, xq	ʭ	1, pq	:
 
+- TheWorldLoanwordDB.ods
+  1814 shared concepts from The World Loanword Database (WOLD) 
+  https://wold.clld.org/meaning
+  licensed under a Creative Commons Attribution 3.0 Germany License
+
+
+ 
+
