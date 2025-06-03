@@ -55,6 +55,7 @@ pite => pice
 pitijo => picijo
 pote => melon
 putuci => melon
+pucun => pucon
 sama => saman
 sanpati => lije
 sena => kike
