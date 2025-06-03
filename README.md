@@ -4,15 +4,16 @@ Proofs of Concepts
 
 - obs.txt:
   
-  V. 20250529
+  V. 20250603
 
   List of obsolete and deprecated terms in kokanu
 
 - Kokanu1.otf:
 
-  V. 20250528
+  V. 20250603
 
-  Font with kokanu glyphs based on VSG's work. 
+  Font with kokanu glyphs based on VSG's work.
+  Stroke width (ca.) 60.
 
 - kokanu1.txt: (WIP)
 
