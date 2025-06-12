@@ -8,18 +8,29 @@ Proofs of Concepts
 
   List of obsolete and deprecated terms in kokanu
 
-- Kokanu1.otf:
+- Kokanu4.otf:
 
-  V. 20250603
+  V. 20250612
 
-  Font with kokanu glyphs based on VSG's work.
-  Stroke width (ca.) 60.
+  Unicode U+100100 - U+10035E, monospaced with width 1000
+
+  Stroke width (ca.) 60 with secondary stroke with (ca.) 50.
+
+  Font with kokanu glyphs based on VSG's work
+
+  with some shape adjustments.
+
+  - Missing glyphs added.
+
+  - Alternative shapes added.
+
+  - monospaced numbers 0-9 and letters A-Z
 
 - kokanu1.txt: (WIP)
 
-  V. 20250528
+  V. 20250612
 
-  iBUS input-method table for kokanu glyphs (Unicode U+100100 - U+100301)
+  iBUS input-method table for kokanu glyphs
 
   includes: oq	◖, cq	◗, qq	≈, xq	ʭ	1, pq	:
   
