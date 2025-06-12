@@ -10,7 +10,7 @@ Proofs of Concepts
 
 - Kokanu4.otf:
 
-  V. 20250612
+  V. 20250612.1
 
   Unicode U+100100 - U+10035E, monospaced with width 1000.
 
