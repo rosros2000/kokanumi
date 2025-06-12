@@ -24,7 +24,7 @@ Proofs of Concepts
 
   - Alternative shapes added.
 
-  - monospaced numbers 0-9 and letters A-Z
+  - Monospaced numbers 0-9 and letters A-Z
 
 - kokanu1.txt: (WIP)
 
