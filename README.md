@@ -12,7 +12,7 @@ Proofs of Concepts
 
   V. 20250612
 
-  Unicode U+100100 - U+10035E, monospaced with width 1000
+  Unicode U+100100 - U+10035E, monospaced with width 1000.
 
   Stroke width (ca.) 60 with secondary stroke with (ca.) 50.
 
