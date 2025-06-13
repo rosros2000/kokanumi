@@ -11,6 +11,7 @@ anta => tajali
 atan => jatan
 ato => lantan
 cisilin => okutu
+cunpu => conpu
 ela => hela
 ena => ci
 huwanho => huwonho
