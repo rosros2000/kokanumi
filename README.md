@@ -4,7 +4,7 @@ Proofs of Concepts
 
 - obs.txt:
   
-  V. 20250603
+  V. 20250613
 
   List of obsolete and deprecated terms in kokanu
 
