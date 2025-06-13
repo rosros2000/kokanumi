@@ -81,6 +81,7 @@ toki => cohi
 tonsa => conca
 toso = ha
 tune => cune
+tunci => sinsasu
 tunpu => cunpu
 tunti => tunci
 tutu => hinpan
