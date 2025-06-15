@@ -36,11 +36,11 @@ Proofs of Concepts
   
 - likanu.txt:
 
-  V. 20250528
+  V. 20250615
 
   iBUS input-method table for likanu:
 
-  likanu abugida, with ALL current kokanu words
+  likanu abugida, INCLUDES ALL current kokanu words
   and the following punctuation marks:
 
   oq	◖, cq	◗, qq	≈, xq	ʭ	1, pq	:
