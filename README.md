@@ -10,7 +10,7 @@ Proofs of Concepts
 
 - Kokanu4.otf:
 
-  V. 20250612.1
+  V. 20250615
 
   Unicode U+100100 - U+10035E, monospaced with width 1000.
 
@@ -25,6 +25,8 @@ Proofs of Concepts
   - Alternative shapes added.
 
   - Monospaced numbers 0-9 and letters A-Z
+    
+  - Monospaced punctuation marks
 
 - kokanu1.txt: (WIP)
 
@@ -41,9 +43,7 @@ Proofs of Concepts
   iBUS input-method table for likanu:
 
   likanu abugida, INCLUDES ALL current kokanu words
-  and the following punctuation marks:
-
-  oq	◖, cq	◗, qq	≈, xq	ʭ	1, pq	:
+  and monospaced punctuation marks.
 
 - TheWorldLoanwordDB.ods
   
