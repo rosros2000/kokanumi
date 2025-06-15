@@ -282,7 +282,7 @@ conca	ɛ̄ʃɛ	1
 conto	ɛ̄ʃʌʃ	1
 cuma	ɛſɞ	1
 cune	ɛſƨȷ	1
-cunpu	ɛ̄ſʜſ	1
+conpu	ɛ̄ſʜſ	1
 cuwi	ɛſɕı	1
 eme	oȷɞȷ	1
 enteken	ōȷʌȷx̄ȷ	1
@@ -482,7 +482,7 @@ poloko	ʜʃʋʃxʃ	1
 polota	ʜʃʋʃʌ	1
 posa	ʜʃɤ	1
 powele	ʜʃɕȷʋȷ	1
-pucun	ʜſɛ̄ſ	1
+pucon	ʜſɛ̄ſ	1
 puka	ʜſx	1
 pula	ʜſʋ	1
 pulusi	ʜſʋſɤı	1
@@ -555,7 +555,7 @@ tonko	ʌ̄ʃxʃ	1
 tope	ʌʃʜȷ	1
 tuko	ʌſxʃ	1
 tula	ʌſʋ	1
-tunci	ʌ̄ſɛı	1
+sinsasu	ʌ̄ſɛı	1
 tuntan	ʌ̄ſʌ̄	1
 tusa	ʌſɤ	1
 ujanu	oſɂƨſ	1
