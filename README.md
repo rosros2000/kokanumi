@@ -55,6 +55,6 @@ Proofs of Concepts
 
 - Kokanu013.epub
 
-  epub test with Kokanu4.otf font embedding.
+  epub test with embedded Kokanu4.otf font.
  
 
