@@ -53,6 +53,8 @@ Proofs of Concepts
   
   licensed under a Creative Commons Attribution 3.0 Germany License
 
+- Kokanu013.epub
 
+  epub test with Kokanu4.otf font embedding.
  
 
