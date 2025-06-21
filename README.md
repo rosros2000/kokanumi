@@ -10,7 +10,7 @@ Proofs of Concepts
 
 - Kokanu4.otf:
 
-  V. 20250615
+  V. 20250621
 
   Unicode U+100100 - U+10035E, monospaced with width 1000.
 
@@ -55,7 +55,7 @@ Proofs of Concepts
 
 - Kokanu013.epub
 
-  V. 20250621
+  V. 20250621.1
 
   epub test with embedded Kokanu4.otf font.
  
