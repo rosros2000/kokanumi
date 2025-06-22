@@ -34,8 +34,8 @@ Proofs of Concepts
 
   iBUS input-method table for kokanu glyphs
 
-  includes: oq	◖, cq	◗, qq	≈, xq	ʭ	1, pq	:
-  
+  includes: bqo	◖, bqc	◗, bq	≈, bx	ʭ	1, bp	:
+    
 - likanu.txt:
 
   V. 20250615
