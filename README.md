@@ -28,7 +28,7 @@ Proofs of Concepts
     
   - Monospaced punctuation marks
 
-- kokanu1.txt: (WIP)
+- kokanu1.txt: 
 
   V. 20250612
 
