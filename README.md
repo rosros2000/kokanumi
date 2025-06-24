@@ -10,7 +10,7 @@ Proofs of Concepts
 
 - Kokanu4.otf:
 
-  V. 20250621
+  V. 20250624
 
   Unicode U+100100 - U+10035E, monospaced with width 1000.
 
@@ -20,13 +20,13 @@ Proofs of Concepts
 
   with some shape adjustments.
 
-  - Missing glyphs added.
+  NOTES:
 
-  - Alternative shapes added.
+  - Some alternative glyphs,
 
-  - Monospaced numbers 0-9 and letters A-Z
+  - Monospaced numbers 0-9 and letters A-Z,
     
-  - Monospaced punctuation marks
+  - Monospaced punctuation marks.
 
 - kokanu1.txt: 
 
@@ -55,8 +55,8 @@ Proofs of Concepts
 
 - Kokanu.epub
 
-  V. 20250623
+  V. 20250624
 
-  epub test with embedded Kokanu4.otf font.
+  epub test with embedded Kokanu.otf font.
  
 
