@@ -1,8 +1,6 @@
 ![](example.svg)
 
-WORK IN PROGRESS
-
-Proofs of Concepts
+WIP
 
 - <b>obs.txt:</b>
   
