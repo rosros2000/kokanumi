@@ -1,7 +1,5 @@
 ![](example.svg)
 
-
-
 WORK IN PROGRESS
 
 Proofs of Concepts
