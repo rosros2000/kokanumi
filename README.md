@@ -55,7 +55,7 @@ Proofs of Concepts
 
 - Kokanu.epub
 
-  V. 20250624
+  V. 20250625.1
 
   epub test with embedded Kokanu.otf font.
  
