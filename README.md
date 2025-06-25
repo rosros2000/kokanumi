@@ -2,13 +2,13 @@ WORK IN PROGRESS
 
 Proofs of Concepts
 
-- obs.txt:
+- <b>obs.txt:</b>
   
   V. 20250613
 
   List of obsolete and deprecated terms in kokanu
 
-- Kokanu4.otf:
+- <b>kokanu.otf</b>:
 
   V. 20250624
 
@@ -30,7 +30,7 @@ Proofs of Concepts
     
   - Monospaced punctuation marks.
 
-- kokanu1.txt: 
+- <b>kokanu1.txt</b>: 
 
   V. 20250612
 
@@ -38,7 +38,7 @@ Proofs of Concepts
 
   includes: bqo	◖, bqc	◗, bq	≈, bx	ʭ	1, bp	:
     
-- likanu.txt:
+- <b>likanu.txt</b>:
 
   V. 20250615
 
@@ -47,7 +47,7 @@ Proofs of Concepts
   likanu abugida, INCLUDES ALL current kokanu words
   and monospaced punctuation marks.
 
-- TheWorldLoanwordDB.ods
+- <b>TheWorldLoanwordDB.ods</b>
   
   1814 shared concepts from The World Loanword Database (WOLD)
   
@@ -55,7 +55,7 @@ Proofs of Concepts
   
   <a href="https://creativecommons.org/licenses/by/3.0/de/deed.en">CC BY 3.0 DE</a>
 
-- Kokanu.epub
+- <b>Kokanu.epub</b>:
 
   V. 20250625.1
 
