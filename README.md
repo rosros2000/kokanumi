@@ -1,4 +1,4 @@
-![](./kokanumi/example.svg)
+![](example.svg)
 
 
 
