@@ -12,6 +12,8 @@ Proofs of Concepts
 
   V. 20250624
 
+  <a href="https://creativecommons.org/licenses/by-nc/4.0/deed.en">CC BY-NC 4.0</a>
+
   Unicode U+100100 - U+10035E, monospaced with width 1000.
 
   Stroke width (ca.) 60 with secondary stroke with (ca.) 50.
@@ -51,7 +53,7 @@ Proofs of Concepts
   
   https://wold.clld.org/meaning
   
-  licensed under a Creative Commons Attribution 3.0 Germany License
+  <a href="https://creativecommons.org/licenses/by/3.0/de/deed.en">CC BY 3.0 DE</a>
 
 - Kokanu.epub
 
