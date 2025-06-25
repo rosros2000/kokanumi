@@ -1,6 +1,6 @@
 ![](example.svg)
 
-WIP
+![](wip.svg)
 
 - <b>obs.txt:</b>
   
