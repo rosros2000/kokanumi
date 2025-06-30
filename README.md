@@ -10,7 +10,7 @@
 
 - <b>kokanu.otf</b>:
 
-  V. 20250624
+  V. 20250630
 
   <a href="https://creativecommons.org/licenses/by-nc/4.0/deed.en">CC BY-NC 4.0</a>
 
