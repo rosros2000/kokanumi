@@ -32,7 +32,7 @@
 
 - <b>kokanu1.txt</b>: 
 
-  V. 20250612
+  V. 20250702
 
   iBUS input-method table for kokanu glyphs
 
