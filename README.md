@@ -36,7 +36,12 @@
 
   iBUS input-method table for kokanu glyphs
 
-  includes: bqo	◖, bqc	◗, bq	≈, bx	ʭ	1, bp	:
+  includes punctuation (abbrev. b....)
+
+  NOTE: Before generating a new IBus input db, delete the previous table both in
+  the target directory (/usr/share/ibus-table/tables/) and in the cache (~/.local/share/ibus-table/tables/),
+
+  then generate the new table with >sudo ibus-table-createdb -n /usr/share/ibus-table/tables/kokanu.db -s kokanu1.txt
     
 - <b>likanu.txt</b>:
 
