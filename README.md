@@ -2,7 +2,7 @@
 
 ![](wip.svg)
 
-
+<a href="https://creativecommons.org/licenses/by-nc/4.0/deed.en">CC BY-NC 4.0</a>
 
 - <b>obs.txt:</b>
   
@@ -13,8 +13,6 @@
 - <b>kokanu.otf</b>:
 
   V. 20250702.2
-
-  <a href="https://creativecommons.org/licenses/by-nc/4.0/deed.en">CC BY-NC 4.0</a>
 
   Unicode U+100100 - U+10035E, monospaced with width 1000.
 
@@ -59,14 +57,10 @@
   1814 shared concepts from The World Loanword Database (WOLD)
   
   https://wold.clld.org/meaning
-  
-  <a href="https://creativecommons.org/licenses/by/3.0/de/deed.en">CC BY 3.0 DE</a>
 
 - <b>Kokanu.epub</b>:
 
   V. 20250714
-
-  <a href="https://creativecommons.org/licenses/by-nc/4.0/deed.en">CC BY-NC 4.0</a>
 
   test epub with embedded Kokanu.otf font.  
 
