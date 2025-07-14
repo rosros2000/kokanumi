@@ -64,7 +64,7 @@
 
 - <b>Kokanu.epub</b>:
 
-  V. 20250702
+  V. 20250714
 
   <a href="https://creativecommons.org/licenses/by-nc/4.0/deed.en">CC BY-NC 4.0</a>
 
