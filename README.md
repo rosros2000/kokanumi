@@ -69,5 +69,8 @@
   <a href="https://creativecommons.org/licenses/by-nc/4.0/deed.en">CC BY-NC 4.0</a>
 
   test epub with embedded Kokanu.otf font.  
- 
+
+ - <b>Kokanu-numbered.pdf</b>:
+   
+   pdf of Kokanu.epub
 
