@@ -52,12 +52,6 @@
   likanu abugida, INCLUDES ALL current kokanu words
   and monospaced punctuation marks.
 
-- <b>TheWorldLoanwordDB.ods</b>
-  
-  1814 shared concepts from The World Loanword Database (WOLD)
-  
-  https://wold.clld.org/meaning
-
 - <b>Kokanu.epub</b>:
 
   V. 20250714
