@@ -6,7 +6,7 @@
 
 - <b>obs.txt:</b>
   
-  V. 20250613
+  V. 20250715
 
   List of obsolete and deprecated terms in kokanu
 
