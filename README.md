@@ -58,7 +58,7 @@
 
   test epub with embedded Kokanu.otf font.  
 
- - <b>Kokanu-numbered.pdf*</b>:
+ - <b>Kokanu-numbered.pdf</b>:
    
    pdf of Kokanu.epub
 
