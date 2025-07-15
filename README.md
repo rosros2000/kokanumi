@@ -49,8 +49,8 @@
 
   iBUS input-method table for likanu:
 
-  likanu abugida, INCLUDES ALL current kokanu words
-  and monospaced punctuation marks.
+  likanu abugida with kokanu syllables, words,
+  and punctuation marks.
 
 - <b>Kokanu.epub</b>:
 
