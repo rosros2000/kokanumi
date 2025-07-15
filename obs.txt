@@ -54,6 +54,7 @@ pan => con
 pi => pijen
 pite => pice
 pitijo => picijo
+pintan => jutu
 pote => melon
 putuci => melon
 pucun => pucon
