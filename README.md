@@ -12,7 +12,7 @@
 
 - <b>kokanu.otf</b>:
 
-  V. 20250702.2
+  V. 20250715
 
   Unicode U+100100 - U+10035E, monospaced with width 1000.
 
@@ -30,7 +30,7 @@
     
   - Monospaced punctuation marks.
 
-- <b>kokanu1.txt</b>: 
+- <b>kokanu1.txt*</b>: 
 
   V. 20250702
 
@@ -43,7 +43,7 @@
 
   then generate the new table with >sudo ibus-table-createdb -n /usr/share/ibus-table/tables/kokanu.db -s kokanu1.txt
     
-- <b>likanu.txt</b>:
+- <b>likanu.txt*</b>:
 
   V. 20250615
 
@@ -54,11 +54,13 @@
 
 - <b>Kokanu.epub</b>:
 
-  V. 20250714
+  V. 20250715
 
   test epub with embedded Kokanu.otf font.  
 
- - <b>Kokanu-numbered.pdf</b>:
+ - <b>Kokanu-numbered.pdf*</b>:
    
    pdf of Kokanu.epub
+
+   *to be updated
 
