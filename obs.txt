@@ -16,6 +16,7 @@ ela => hela
 ena => ci
 huwanho => huwonho
 imo => wa
+inkatan => inatan
 iputu => kenca
 jamu => antomi
 jasa => pajan
