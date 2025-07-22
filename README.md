@@ -54,7 +54,7 @@
 
 - <b>Kokanu.epub</b>:
 
-  V. 20250715
+  V. 20250722
 
   test epub with embedded Kokanu.otf font.  
 
