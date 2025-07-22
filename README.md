@@ -12,7 +12,7 @@
 
 - <b>kokanu.otf</b>:
 
-  V. 20250715
+  V. 20250722
 
   Unicode U+100100 - U+10035E, monospaced with width 1000.
 
