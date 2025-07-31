@@ -12,7 +12,7 @@
 
 - <b>kokanu.otf</b>:
 
-  V. 20250722
+  V. 20250801
 
   Unicode U+100100 - U+10035E, monospaced with width 1000.
 
@@ -54,7 +54,7 @@
 
 - <b>Kokanu.epub</b>:
 
-  V. 20250722
+  V. 20250801
 
   test epub with embedded Kokanu.otf font.  
 
