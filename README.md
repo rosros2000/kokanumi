@@ -10,9 +10,9 @@
 
   List of obsolete and deprecated terms in kokanu
 
-- <b>kokanu.otf</b>:
+- <b>kokanu.ttf / kokanu.woff2</b>:
 
-  V. 20250801
+  V. 20250818
 
   Unicode U+100100 - U+10035E, monospaced with width 1000.
 
@@ -32,7 +32,7 @@
 
 - <b>kokanu1.txt*</b>: 
 
-  V. 20250702
+  V. 20250702*
 
   iBUS input-method table for kokanu glyphs
 
@@ -45,14 +45,14 @@
     
 - <b>likanu.txt*</b>:
 
-  V. 20250615
+  V. 20250615*
 
   iBUS input-method table for likanu:
 
   likanu abugida with kokanu syllables, words,
   and punctuation marks.
 
-- <b>Kokanu.epub</b>:
+- <b>Kokanu.epub*</b>:
 
   V. 20250801
 
