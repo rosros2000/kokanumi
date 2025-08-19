@@ -12,15 +12,15 @@
 
 - <b>kokanu.ttf / kokanu.woff2</b>:
 
-  V. 20250818
+  V. 20250819
 
   Unicode U+100100 - U+10035E, monospaced with width 1000.
 
   Stroke width (ca.) 60 with secondary stroke with (ca.) 50.
 
-  Font with kokanu glyphs based on VSG's work
+  Font with kokanu glyphs based on VictorSG's presentation
 
-  with some shape adjustments.
+  with some adjustments.
 
   NOTES:
 
