@@ -54,11 +54,11 @@
 
 - <b>Kokanu.epub</b>:
 
-  V. 20250819
+  V. 20250819*
 
   test epub with embedded Kokanu font.  
 
- - <b>Kokanu-numbered.pdf</b>:
+ - <b>Kokanu-numbered.pdf*</b>:
    
    pdf of Kokanu.epub
 
