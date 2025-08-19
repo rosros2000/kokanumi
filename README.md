@@ -52,7 +52,7 @@
   likanu abugida with kokanu syllables, words,
   and punctuation marks.
 
-- <b>Kokanu.epub*</b>:
+- <b>Kokanu.epub</b>:
 
   V. 20250819
 
