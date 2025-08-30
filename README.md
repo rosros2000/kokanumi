@@ -12,7 +12,7 @@
 
 - <b>kokanu.ttf / kokanu.woff2</b>:
 
-  V. 20250819
+  V. 20250830
 
   Unicode U+100100 - U+10035E, monospaced with width 1000.
 
